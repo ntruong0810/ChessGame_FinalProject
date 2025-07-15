@@ -1,0 +1,14 @@
+# Target labels
+ freetype-populate
+# Source files and their labels
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate.rule
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete.rule
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build.rule
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure.rule
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download.rule
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install.rule
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir.rule
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch.rule
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test.rule
+/Users/thunhantruong/Documents/CLion/finalProjectCS3A/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update.rule
